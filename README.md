@@ -1,4 +1,4 @@
-👋 Hi, I'm Amrah
+#👋 Hi, I'm Amrah
 
 💻 Full Stack Web Developer
 🚀 I love building clean and simple web apps
@@ -6,7 +6,7 @@
 
 ---
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript, Tailwind
 Backend: Node.js, Express
@@ -15,7 +15,7 @@ Tools: Git, GitHub, VS Code
 
 ---
 
-📈 GitHub Stats
+##📈 GitHub Stats
 
 ![Amrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrahSheikh&show_icons=true&theme=dark)
 
@@ -23,13 +23,13 @@ Tools: Git, GitHub, VS Code
 
 ---
 
-⚡ Fun fact
+##⚡ Fun fact
 
 I can spend hours fixing tiny UI details even if no one else notices 😄
 
 ---
 
-🌐 Find Me
+##🌐 Find Me
 
 <a href="https://instagram.com/amrah__sheikh" target="_blank">📸 Instagram</a>  
 <a href="https://x.com/AmrahSheikh" target="_blank">✖️ X (Twitter)</a>
@@ -37,7 +37,7 @@ I can spend hours fixing tiny UI details even if no one else notices 😄
 
 ---
 
-✨ Little About Me
+##✨ Little About Me
 
 I enjoy creating UI designs, experimenting with new ideas,
 and building projects that help me learn something new every day.
