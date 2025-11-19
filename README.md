@@ -33,6 +33,7 @@ I can spend hours fixing tiny UI details even if no one else notices 😄
 
 <a href="https://instagram.com/amrah__sheikh" target="_blank">📸 Instagram</a>  
 <a href="https://x.com/AmrahSheikh" target="_blank">✖️ X (Twitter)</a>
+<a href="https://www.linkedin.com/in/amrah-sheikh-26502238a" target="_blank">💼 LinkedIn</a>
 
 ---
 
