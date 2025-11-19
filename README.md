@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Hi, I'm Amrah
 
-<!--
-**AmrahSheikh/AmrahSheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer
+🚀 I love building clean and simple web apps
+🌱 Learning and improving every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript, Tailwind
+Backend: Node.js, Express
+Database: MongoDB
+Tools: Git, GitHub, VS Code
+
+---
+
+📈 GitHub Stats
+
+![Amrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrahSheikh&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahSheikh&layout=compact&theme=dark)
+
+---
+
+⚡ Fun fact
+
+I can spend hours fixing tiny UI details even if no one else notices 😄
+
+---
+
+🌐 Find Me
+
+<a href="https://instagram.com/amrah__sheikh" target="_blank">📸 Instagram</a>  
+<a href="https://x.com/AmrahSheikh" target="_blank">✖️ X (Twitter)</a>
+
+---
+
+✨ Little About Me
+
+I enjoy creating UI designs, experimenting with new ideas,
+and building projects that help me learn something new every day.
