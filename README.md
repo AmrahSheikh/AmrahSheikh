@@ -30,27 +30,20 @@
 
 ---
 
-<h2>📈 GitHub Stats</h2>
-
-![Amrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrahSheikh&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahSheikh&layout=compact&theme=dark)
-
-
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=AmrahSheikh&show_icons=true&theme=tokyonight" height="180" />
 
 </div>
-<div align="center">
+<div>
 
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=AmrahSheikh&layout=compact&theme=tokyonight" height="180" />
 
 </div>
-<div align="center">
+<div>
 
 <img src="https://streak-stats.demolab.com/?user=AmrahSheikh&theme=tokyonight" height="180" />
 
