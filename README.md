@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Amrah 👋</h1>
 
-
-💻 Full Stack Web Developer
-🚀 I love building clean and simple web apps
-🌱 Learning and improving every day
+<div  align="center">
+  💻 Full Stack Web Developer
+  🚀 I love building clean and simple web apps
+  🌱 Learning and improving every day
+</div>
 
 ---
 
@@ -14,7 +15,7 @@ Backend: Node.js, Express
 Database: MongoDB
 Tools: Git, GitHub, VS Code -->
 
-## 🚀 Tech Stack
+<h1  align="center"> 🚀 Tech Stack</h1>
 
 <div align="center">
 
@@ -50,16 +51,14 @@ Tools: Git, GitHub, VS Code -->
 </div>
 ---
 
-## 📊 GitHub Stats
+<h1>## 📊 GitHub Stats</h1>
 
-<div align="center">
+<div>
+![Amrah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmrahSheikh&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmrahSheikh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+![GitHub Streak](https://streak-stats.demolab.com?user=AmrahSheikh&theme=tokyonight&hide_border=false)
 
-<img src="https://streak-stats.demolab.com?user=AmrahSheikh&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahSheikh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahSheikh&layout=compact&theme=tokyonight&hide_border=false)
 </div>
 
 
@@ -73,21 +72,25 @@ Tools: Git, GitHub, VS Code -->
 
 ---
 
-<h2>⚡ Fun fact</h2>
-
-I can spend hours fixing tiny UI details even if no one else notices 😄
-
----
-
-<h2>🌐 Find Me</h2>
-
-<a href="https://instagram.com/amrah__sheikh" target="_blank">📸 Instagram</a>  
-<a href="https://x.com/AmrahSheikh" target="_blank">✖️ X (Twitter)</a>
-<a href="https://www.linkedin.com/in/amrah-sheikh-26502238a" target="_blank">💼 LinkedIn</a>
+<h2 align="center">⚡ Fun fact</h2>
+<div align="center">
+  I can spend hours fixing tiny UI details even if no one else notices 😄
+</div>
 
 ---
 
-<h2>✨ Little About Me</h2>
+<h2 align="center">🌐 Find Me</h2>
 
-I enjoy creating UI designs, experimenting with new ideas,
+<div align="center">
+  <a href="https://instagram.com/amrah__sheikh" target="_blank">📸 Instagram</a>  
+  <a href="https://x.com/AmrahSheikh" target="_blank">✖️ X (Twitter)</a>
+  <a href="https://www.linkedin.com/in/amrah-sheikh-26502238a" target="_blank">💼 LinkedIn</a>
+</div>
+
+---
+
+<h2 align="center">✨ Little About Me</h2>
+
+<div>I enjoy creating UI designs, experimenting with new ideas,
 and building projects that help me learn something new every day.
+</div>
