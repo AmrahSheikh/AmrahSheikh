@@ -7,18 +7,11 @@
 
 ---
 
-<!-- <h2>🛠️ Tech Stack</h2>
-
-Frontend: HTML, CSS, JavaScript, Tailwind
-Backend: Node.js, Express
-Database: MongoDB
-Tools: Git, GitHub, VS Code -->
-
-<h1> 🚀 Tech Stack</h1>
+<h2> 🚀 Tech Stack</h2>
 
 <div>
 
-### 💻 Languages & Core
+## 💻 Languages & Core
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,21 +19,21 @@ Tools: Git, GitHub, VS Code -->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🧠 Frontend Tools
+## 🧠 Frontend Tools
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Context API](https://img.shields.io/badge/-Context%20API-000?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-### ⚙️ Backend & Databases
+## ⚙️ Backend & Databases
 ![NodeJS](https://img.shields.io/badge/-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🛠️ Tools & Others
+## 🛠️ Tools & Others
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -48,31 +41,20 @@ Tools: Git, GitHub, VS Code -->
 ![Socket.io](https://img.shields.io/badge/-Socket.io-000?style=for-the-badge&logo=socket.io&logoColor=white)
 
 </div>
+
 ---
-<h1> 📈 My GitHub Performance </h1>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrahSheikh&theme=highcontrast&show_icons=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrahSheikh&theme=highcontrast" height="150" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahSheikh&layout=compact&theme=highcontrast" height="150" />
-</p>
-
-
-<!-- <h2>📈 GitHub Stats</h2>
+<h2>📈 GitHub Stats</h2>
 
 ![Amrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrahSheikh&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahSheikh&layout=compact&theme=dark) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahSheikh&layout=compact&theme=dark)
 
 ---
 
 <h2>⚡ Fun fact</h2>
-<div>
-  I can spend hours fixing tiny UI details even if no one else notices 😄
-</div>
+
+I can spend hours fixing tiny UI details even if no one else notices 😄
 
 ---
 
